@@ -11,6 +11,9 @@
 .bg-gray {
     background-color: (81, 187, 164);
 }
+.even-tr{
+    background-color: aquamarine;
+}
 
 @media screen and (max-width: 960px) {
     #table {
