@@ -12,13 +12,10 @@ header {
 }
 
 .nav .btn {
-  background-color:(81, 187, 164); 
+  background-color:#6edfb3; 
 }
 .bg-gray {
-    background-color: (81, 187, 164);
-}
-.even-tr{
-    background-color: aquamarine;
+    background-color: #6edfb3;
 }
 
 @media screen and (max-width: 960px) {
@@ -31,5 +28,5 @@ header {
     }
 }
 .even-tr:nth-child(even) {
-    background-color: #f2f2f2; 
+    background-color: #438697; 
 }
