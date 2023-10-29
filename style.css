@@ -7,7 +7,9 @@
     background-color: #51bba4; /* Change to your desired color */
     height: 2rem;
 }
-
+.container py-3 mb-4 bg-light{
+    background-color: #51bba4;
+}
 header{
   margin-top: 56px;
   width: 100%;
