@@ -4,18 +4,20 @@
 }
 
 .divider {
-    background-color: (81, 187, 164);
+    background-color: #51bba4; /* Change to your desired color */
     height: 2rem;
 }
+
 header {
-  background-color: (81, 187, 164);
+  background-color: #51bba4; /* Change to your desired color */
 }
 
 .nav .btn {
-  background-color:#6edfb3; 
+  background-color: #6edfb3; /* Change to your desired color */
 }
+
 .bg-gray {
-    background-color: #6edfb3;
+    background-color: #6edfb3; /* Change to your desired color */
 }
 
 @media screen and (max-width: 960px) {
@@ -27,6 +29,7 @@ header {
         order: 2;
     }
 }
+
 .even-tr:nth-child(even) {
-    background-color: #438697; 
+    background-color: #438697; /* Change to your desired color */
 }
