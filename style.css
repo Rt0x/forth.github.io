@@ -8,11 +8,11 @@
     height: 2rem;
 }
 header {
-  background-color: #ff0000;
+  background-color: (81, 187, 164);
 }
 
 .nav .btn {
-  background-color: #00ff00; 
+  background-color:(81, 187, 164); 
 }
 .bg-gray {
     background-color: (81, 187, 164);
